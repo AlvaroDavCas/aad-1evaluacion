@@ -1,4 +1,4 @@
-package edu.iesam.add_1evaluacion.feature.domain
+package edu.iesam.add_1evaluacion.feature.car.domain
 
 data class Car(
     val id: String,
