@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Add-1evaluacion</string>
+    <string name="xml_local_data_source">xml_local_data_source</string>
 </resources>
